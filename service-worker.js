@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//dragcool2z.github.io/react-deploy-pretest/precache-manifest.e262dae0a707a7d319ca5bdea5cd5538.js"
+  "//dragcool2z.github.io/react-deploy-pretest/precache-manifest.e5fc37ee58530d97d1cf0874ce2ecfe2.js"
 );
 
 self.addEventListener('message', (event) => {
